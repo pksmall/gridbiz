@@ -155,7 +155,7 @@ img {
 
 /* Footer */
 .footrer {
-    marging-top: 2rem;
+    margin: 2rem;
     background: var(--dark);
     color: var(--light);
     text-align: center;
